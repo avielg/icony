@@ -36,9 +36,8 @@ icony accepts either one or both of the following arguments:
 ### Output
 
 icony creates the `iTunesArtwork` files (sizes 1024 and 512) and an `AppIcon.appiconset` folder that you can drag straight into your Xcode project!
- 
- 
- ### Future
+
+### Future
  
   - Add to Homebrew
   - Recieve path to Xcode project to automatically copy the `.appiconset` folder into `.xcassets`
