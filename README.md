@@ -3,7 +3,7 @@ icony
 
 <p align=center>icony is a command line tool written in Swift that makes resizing your 1024 png file into icons a breeze</p>
 
-<p align=center>![example](http://aococ.co/aviel/icony_trailer.gif)</p>
+<p align=center><img src="http://aococ.co/aviel/icony_trailer.gif" alt="icony gif" width="600"/></p>
 
 ### Usage
 
