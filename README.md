@@ -32,8 +32,7 @@ swiftc icony.swift -o icony
 icony accepts either one or both of the following arguments:
 
  1. The path to the original image. Preferably sized 1024X1024px. Any different size will be resized accordingly.
- 
-2. Optional: The path to save the created icons. If not passed, icony will save to `~/Desktop/icons/...`
+ 2. Optional: The path to save the created icons. If not passed, icony will save to `~/Desktop/icons/...`
 
 ### Output
 
